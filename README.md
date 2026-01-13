@@ -1,51 +1,74 @@
-<h1 align="center">Hi 👋 Shivam here — a Computer Science student and a passionate builder. I love creating practical projects, experimenting with AI, and shipping fast-moving prototypes. My work spans full-stack development, automation, and developer tools. Most of my repos are small builds and experiments where I learn by doing and constantly level up.</h1>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:111827&height=180&section=header&text=Hi%20👋%20Shivam%20Here!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<!-- Intro + Gif layout -->
+<table>
+<tr>
+<td width="65%">
+
+## 👨‍💻 About Me
+
+Hi 👋 Shivam here — a **Computer Science student** and a passionate builder.  
+I love creating **practical projects**, experimenting with **AI**, and shipping fast-moving prototypes.
+
+- 🚀 Full-stack Development  
+- 🤖 AI & Automation  
+- 🛠 Tooling & Developer Utilities  
+- 📚 Always learning & improving
+
+</td>
+
+<td width="35%">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 Stats ⚙️
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=620&lines=BTech+CSE+Student;Python+Developer;Web+%7C+AI+Builder;Build+%E2%80%A2+Ship+%E2%80%A2+Repeat;SXM.dev" />
+  <img src="https://github-readme-stats.vercel.app/api?username=h4x-Shivam&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=h4x-Shivam&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=h4x-Shivam&style=for-the-badge&color=grey" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h4x-Shivam&theme=tokyonight" />
 </p>
 
 ---
 
-## 🧠 About Me
-- 🎓 BTech CSE Student
-- 🧑‍💻 Developer
-- 🌐 Learning Web Dev & Backend
-- 🤖 Exploring AI + automation
-
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
----
-
-## 📊 Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=h4x-Shivam&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4x-Shivam&layout=compact&theme=tokyonight" />
-</p>
+## 🧠 Languages & Skills
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=h4x-Shivam&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python,java,c,cpp,git,github,linux,aws" />
 </p>
 
 ---
 
-## 🧰 Languages & Tools
+## 🔗 Connect With Me
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,git,github,vscode&perline=9" />
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/YOUR_LINK">
+    <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🌐 Connect with me
 <p align="center">
-<a href="https://www.linkedin.com/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45" /></a>
-<a href="https://instagram.com/sh1vxm" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="45" /></a>
-<a href="https://discord.com/" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="45" /></a>
-<a href="https://youtube.com/" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" height="45" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0f172a&height=120&section=footer"/>
 </p>
+
 
 ---
 
