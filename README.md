@@ -68,7 +68,7 @@ Hi 👋 I’m Shivam, a Computer Science student focused on building useful and 
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/h4x-Shivam/github-readme-snake/output/github-contribution-grid-snake-dark.svg" />
+  <img src="[https://raw.githubusercontent.com/h4x-Shivam/github-readme-snake/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/h4x-Shivam/github-readme-snake/refs/heads/output/github-contribution-grid-snake-dark.svg?token=GHSAT0AAAAAADTD3Z2NTSVKTPB6XKWDWSFA2LGKWYA)" />
 </p>
 
 <p align="center"><b>⚡ SVXM • Developer • Python | Web | AI • Building useful tools</b></p>
