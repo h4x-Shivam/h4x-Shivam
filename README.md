@@ -21,7 +21,7 @@ I love creating **practical projects**, experimenting with **AI**, and shipping 
 </td>
 
 <td width="35%">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://pin.it/4ZkIaSR8C" width="100%" />
+  <img src="https://pin.it/4ZkIaSR8C" width="100%" />
 </td>
 </tr>
 </table>
