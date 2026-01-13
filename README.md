@@ -38,7 +38,7 @@ Hi 👋 I’m Shivam, a Computer Science student focused on building useful and 
 ## 🧠 Languages & Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python,docker,notion,cpp,git,github,linux,aws,npm,figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python,docker,notion,cpp,git,github,linux,aws,npm,figma,vscode,linux,flask,fastapi,sqlite,mysql,postgres,postman,tensorflow,pytorch,sklearn,opencv,golang" />
 </p>
 
 ---
