@@ -10,8 +10,7 @@
 
 ## 👨‍💻 About Me
 
-Hi 👋 Shivam here — a **Computer Science student** and a passionate builder.  
-I love creating **practical projects**, experimenting with **AI**, and shipping fast-moving prototypes.
+Hi 👋 I’m Shivam, a Computer Science student focused on building useful and well-crafted software. I enjoy working on full-stack applications, AI-powered projects, and developer tooling. I’m always experimenting, learning, and iterating — most of my repositories are prototypes, mini-projects, and hands-on builds that reflect my growth as a developer.
 
 - 🚀 Full-stack Development  
 - 🤖 AI & Automation  
@@ -21,7 +20,7 @@ I love creating **practical projects**, experimenting with **AI**, and shipping 
 </td>
 
 <td width="35%">
-  <img src="https://pin.it/4ZkIaSR8C" width="100%" />
+  <img src="assets/73ab929436b583c407450e6c76e15c5d.gif" width="100%" />
 </td>
 </tr>
 </table>
@@ -44,7 +43,7 @@ I love creating **practical projects**, experimenting with **AI**, and shipping 
 ## 🧠 Languages & Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python,java,c,cpp,git,github,linux,aws" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python,docker,c,cpp,git,github,linux,aws" />
 </p>
 
 ---
@@ -58,7 +57,7 @@ I love creating **practical projects**, experimenting with **AI**, and shipping 
   <a href="https://twitter.com/YOUR_LINK">
     <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:svxm.h4x@gmil.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -77,4 +76,4 @@ I love creating **practical projects**, experimenting with **AI**, and shipping 
   <img src="https://raw.githubusercontent.com/h4x-Shivam/github-readme-snake/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<p align="center"><b>⚡ SVXM.dev — Build • Ship • Repeat</b></p>
+<p align="center"><b>⚡ SVXM • Developer • Python | Web | AI • Building useful tools</b></p>
