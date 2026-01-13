@@ -1,12 +1,7 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:111827&height=180&section=header&text=Hi%20👋%20Shivam%20Here!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
-
 <!-- Intro + Gif layout -->
 <table>
 <tr>
-<td width="65%">
+<td width="60%">
 
 ## 👨‍💻 About Me
 
@@ -43,7 +38,7 @@ Hi 👋 I’m Shivam, a Computer Science student focused on building useful and 
 ## 🧠 Languages & Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python,docker,c,cpp,git,github,linux,aws" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python,docker,notion,cpp,git,github,linux,aws,npm,figma" />
 </p>
 
 ---
