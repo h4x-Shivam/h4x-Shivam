@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#0b2a3d"/>
+    </linearGradient>
+
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+  </defs>
+
+  <!-- Background strip -->
+  <rect width="1200" height="220" fill="#0b1020"/>
+
+  <!-- Wave layer 1 -->
+  <path
+    d="M0,155 C240,190 430,90 640,145 C850,200 990,170 1200,190 L1200,220 L0,220 Z"
+    fill="url(#g)"
+    opacity="0.65"
+  />
+
+  <!-- Wave layer 2 -->
+  <path
+    d="M0,20 C240,55 420,5 620,35 C820,65 980,55 1200,30 L1200,0 L0,0 Z"
+    fill="#071220"
+    opacity="0.65"
+  />
+
+  <!-- Soft highlight -->
+  <path
+    d="M0,150 C220,190 420,95 640,145 C860,195 1010,180 1200,190"
+    fill="none"
+    stroke="#1d4d66"
+    stroke-width="10"
+    opacity="0.25"
+    filter="url(#soft)"
+  />
+</svg>
