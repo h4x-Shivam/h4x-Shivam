@@ -28,26 +28,21 @@
 
 ---
 
-<h2 align="center">📊Stats</h2>  
+<h2 align="center">Stats ⚙️</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=svxm.dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    height="165"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=svxm.dev&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    height="165"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=h4x-Shivam&theme=tokyonight" height="160" />
+  <img src="https://streak-stats.demolab.com?user=h4x-Shivam&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160"/>
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=svxm.dev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    height="165"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h4x-Shivam&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=h4x-Shivam&theme=tokyonight" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=h4x-Shivam&theme=tokyonight" height="160" />
+</p>
 
 ---
 
