@@ -81,9 +81,8 @@
 ---
 <!-- TOP WAVE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/h4x-Shivam/h4x-Shivam/main/assets/top_wave.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/h4x-Shivam/h4x-Shivam/main/assets/top_wave_githubbg.gif" width="100%" />
 </p>
-
 
 <!-- GIF -->
 <p align="center">
