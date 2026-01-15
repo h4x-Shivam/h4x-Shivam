@@ -81,8 +81,9 @@
 ---
 <!-- TOP WAVE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/h4x-Shivam/h4x-Shivam/main/assets/wave-top.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/h4x-Shivam/h4x-Shivam/main/assets/top_wave.gif" width="100%" />
 </p>
+
 
 <!-- GIF -->
 <p align="center">
@@ -97,7 +98,7 @@
 
 <!-- BOTTOM WAVE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/h4x-Shivam/h4x-Shivam/main/assets/wave-bottom.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/h4x-Shivam/h4x-Shivam/main/assets/bottom_wave.gif" width="100%" />
 </p>
 
 ---
