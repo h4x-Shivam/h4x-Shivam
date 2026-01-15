@@ -1,3 +1,11 @@
+<!-- TYPING EFFECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;CSE+Student+%F0%9F%92%BB;AI+%7C+ML+Enthusiast;Open+Source+Contributor&font=Fira%20Code&center=true&width=600&height=50&color=00FFAA&vCenter=true&size=22" />
+</p>
+
+
+
+
 <!-- Intro + Gif layout -->
 <table>
 <tr>
@@ -20,15 +28,15 @@
 
 ---
 
-<h2 align="center">Stats ⚙️</h2>  
+<h2 align="center">## 📊 GitHub Stats</h2>   
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=h4x-Shivam&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=h4x-Shivam&theme=tokyonight" height="160"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h4x-Shivam&theme=tokyonight" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
 </p>
 
 ---
