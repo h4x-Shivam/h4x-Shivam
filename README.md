@@ -79,34 +79,13 @@
 </p>
 
 ---
-<div align="center">
+<!-- TOP WAVE -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/h4x-Shivam/h4x-Shivam/main/assets/wave-top.svg" width="100%" />
+</p>
 
-<!-- Glow Wrapper -->
-<div style="
-  position: relative;
-  width: 720px;
-  max-width: 95%;
-  padding: 22px;
-  border-radius: 22px;
-  background: rgba(15, 15, 20, 0.55);
-  overflow: hidden;
-">
-
-  <!-- Glow Effect (Bright, not dim) -->
-  <div style="
-    position: absolute;
-    inset: -60px;
-    background: radial-gradient(circle at center,
-      rgba(120, 180, 255, 0.35),
-      rgba(0, 0, 0, 0) 65%
-    );
-    filter: blur(75px);
-    mix-blend-mode: screen;
-    pointer-events: none;
-  "></div>
-
-  <!-- GIF -->
-  <img src="assets/ea72e0f2e0acc82f08a052ca60f39ee7.gif"
+<!-- GIF -->
+ <img src="assets/ea72e0f2e0acc82f08a052ca60f39ee7.gif"
        alt="gif"
        style="
          position: relative;
@@ -115,11 +94,10 @@
          box-shadow: 0px 15px 40px rgba(0,0,0,0.45);
        " />
 
-</div>
-
-</div>
-
-
+<!-- BOTTOM WAVE -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/h4x-Shivam/h4x-Shivam/main/assets/wave-bottom.svg" width="100%" />
+</p>
 
 ---
 
