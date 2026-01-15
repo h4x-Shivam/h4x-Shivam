@@ -85,6 +85,7 @@
 </p>
 
 <!-- GIF -->
+<p align="center">
  <img src="assets/ea72e0f2e0acc82f08a052ca60f39ee7.gif"
        alt="gif"
        style="
