@@ -1,12 +1,7 @@
-<!-- TYPING EFFECT -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;CSE+Student+%F0%9F%92%BB;AI+%7C+ML+Enthusiast;Open+Source+Contributor&font=Fira%20Code&center=true&width=600&height=50&color=00FFAA&vCenter=true&size=22" />
 </p>
 
-
-
-
-<!-- Intro + Gif layout -->
 <table>
 <tr>
 <td width="60%">
@@ -26,17 +21,15 @@
 </tr>
 </table>
 
----
-
 <h2 align="center">Stats ⚙️</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=h4x-Shivam&theme=tokyonight" height="160" />
-  <img src="https://streak-stats.demolab.com?user=h4x-Shivam&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h4x-Shivam&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h4x-Shivam&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=h4x-Shivam&theme=tokyonight" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=h4x-Shivam&theme=tokyonight&utcOffset=5.5" height="160" />
 </p>
 
 <p align="center">
@@ -44,15 +37,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=h4x-Shivam&theme=tokyonight" height="160" />
 </p>
 
----
-
 <h2 align="center">🧠 Languages & Skills</h2>  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python,docker,notion,cpp,git,github,linux,aws,npm,figma,vscode,linux,flask,fastapi,sqlite,mysql,postgres,postman,tensorflow,pytorch,sklearn,opencv,golang" />
 </p>
-
----
 
 <h2 align="center">🔗 Connect With Me</h2>
 
@@ -78,13 +67,10 @@
   </a>
 </p>
 
----
-<!-- TOP WAVE -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/h4x-Shivam/h4x-Shivam/main/assets/top_wave_githubbg.gif" width="100%" />
 </p>
 
-<!-- GIF -->
 <p align="center">
  <img src="assets/ea72e0f2e0acc82f08a052ca60f39ee7.gif"
        alt="gif"
@@ -95,14 +81,10 @@
          box-shadow: 0px 15px 40px rgba(0,0,0,0.45);
        " />
 
-<!-- BOTTOM WAVE -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/h4x-Shivam/h4x-Shivam/main/assets/bottom_wave_githubbg.gif" width="100%" />
 </p>
 
----
-
-<!-- 🐍 Contribution Snake Section -->
 <br>
 
 <h2 align="center">🐍 Contribution Snake</h2>
