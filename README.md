@@ -46,15 +46,16 @@
 <h2 align="center">🔗 Connect With Me</h2>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/YOUR_LINK/](https://www.linkedin.com/in/shivam-jaiswal-2a5b3b3a5/)" target="_blank">
+  <a href="https://www.linkedin.com/in/shivam-jaiswal-2a5b3b3a5/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
+</p>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/YOUR_ID" target="_blank">
+  <a href="https://x.com/Sh1vxxm" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" height="45" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+  <a href="mailto:svxm.h4x@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
