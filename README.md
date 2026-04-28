@@ -49,20 +49,23 @@
   <a href="https://www.linkedin.com/in/shivam-jaiswal-2a5b3b3a5/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
-</p>
   &nbsp;&nbsp;&nbsp;&nbsp;
+  
   <a href="https://x.com/Sh1vxxm" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" height="45" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:svxm.h4x@gmail.com" target="_blank">
+  
+  <a href="mailto:svxm.h4x@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
+  
   <a href="https://instagram.com/sh1vxxm" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="45" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
+  
   <a href="https://github.com/h4x-Shivam" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="45" />
   </a>
