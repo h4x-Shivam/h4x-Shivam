@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+%26+AI+Systems;Fintech+%26+Algorithmic+Trading+%F0%9F%92%BB;CSE+Student;Open+Source+Contributor&font=Fira%20Code&center=true&width=600&height=50&color=00FFAA&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+%26+AI+Systems;Fintech+%26+Algorithmic+Trading+%F0%9F%92%BB;CSE+Student;Open+Source+Contributor&font=Fira%20Code&center=true&width=600&height=50&color=FF4C4C&vCenter=true&size=22" />
 </p>
 
 <table>
