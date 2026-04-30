@@ -25,10 +25,6 @@ Hi 👋 I’m Shivam, a Computer Science student focused on building useful and 
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="55%">
-
 ### 🔥 VerdictX  
 AI-powered Bull vs Bear debate engine for stock decisions  
 
@@ -36,21 +32,11 @@ AI-powered Bull vs Bear debate engine for stock decisions
 
 **Tech:** Python • FastAPI • MongoDB • LLM  
 
-[🔗 View Repo](https://github.com/h4x-Shivam/VerdictX) • [🌐 Live Demo](#)
+<p align="center">
+  <img src="YOUR_IMAGE_OR_GIF_LINK" width="85%" style="border-radius:12px;" />
+</p>
 
-</td>
-
-<td width="45%">
-<img src="https://pin.it/3XaNa6ZZh" width="100%" style="border-radius:12px;" />
-</td>
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-<td width="55%">
+---
 
 ### ⚙️ CodeFlow  
 JavaScript execution visualizer for beginners  
@@ -59,15 +45,9 @@ JavaScript execution visualizer for beginners
 
 **Tech:** TypeScript • React • Node.js  
 
-[🔗 View Repo](https://github.com/h4x-Shivam/codeflow) • [🌐 Live Demo](#)
-
-</td>
-
-<td width="45%">
-<img src="YOUR_IMAGE_OR_GIF_LINK" width="100%" style="border-radius:12px;" />
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="YOUR_IMAGE_OR_GIF_LINK" width="85%" style="border-radius:12px;" />
+</p>
 
 ---
 
