@@ -33,7 +33,7 @@ AI-powered Bull vs Bear debate engine for stock decisions
 **Tech:** Python • FastAPI • MongoDB • LLM  
 
 <p align="center">
-  <img src="YOUR_IMAGE_OR_GIF_LINK" width="85%" style="border-radius:12px;" />
+  <img src="https://pin.it/4qAFcITs4" width="85%" style="border-radius:12px;" />
 </p>
 
 ---
