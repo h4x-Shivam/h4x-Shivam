@@ -16,7 +16,7 @@
 </td>
 
 <td width="35%">
-  <img src="assets/PinDown.io_@thevoidofgaur_1777786752.mp4" width="100%" />
+  <img src="assets/PinDown.io_@thevoidofgaur_1777786752.gif" width="100%" />
 </td>
 </tr>
 </table>
