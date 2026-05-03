@@ -1,87 +1,110 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Backend+%26+AI+Systems;Fintech+%26+Algorithmic+Trading;CSE+Student;Open+Source+Contributor&font=Fira%20Code&center=true&width=650&height=50&color=00E5FF&vCenter=true&size=22&pause=1500" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?lines=Backend+%26+AI+Systems;Fintech+%26+Algorithmic+Trading;CSE+Student;Open+Source+Contributor&font=Fira%20Code&center=true&width=650&height=50&color=00E5FF&vCenter=true&size=26&pause=1500" />
+</p>
 
-<br/>
+<table>
+<tr>
+<td width="60%">
 
-<img align="right" src="assets/ea72e0f2e0acc82f08a052ca60f39ee7.gif" width="200px" />
+  Hi 👋 I’m Shivam, a Computer Science student focused on building useful and well-crafted software. I enjoy working on full-stack applications, AI-powered projects, and developer tooling. I’m always experimenting, learning, and iterating — most of my repositories are prototypes, mini-projects, and hands-on builds that reflect my growth as a developer.
 
-### `> whoami`
+- 🚀 Full-stack Development  
+- 🤖 AI & Automation  
+- 🛠 Tooling & Developer Utilities  
+- 📚 Always learning & improving
 
-Hey 👋 I'm **Shivam** — a CS student who builds things that are actually useful.
+</td>
 
-I work across full-stack dev, AI/ML systems, and fintech/algo-trading. Most of my repos are prototypes and hands-on builds — experiments that reflect how I learn and grow.
+<td width="35%">
+  <img src="assets/PinDown.io_@thevoidofgaur_1777786752.gif" width="100%" />
+</td>
+</tr>
+</table>
 
-```
-Focus Areas:
-  ├── 🚀  Full-stack Development
-  ├── 🤖  AI & Automation
-  ├── 📈  Fintech & Algo Trading
-  └── 🛠  Dev Tooling & Open Source
-```
+<h2 align="center">Stats ⚙️</h2>
 
-<br clear="right"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h4x-Shivam&theme=tokyonight" />
+</p>
 
----
-
-### `> stats --verbose`
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h4x-Shivam&theme=tokyonight" width="100%" />
-
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=h4x-Shivam&theme=tokyonight" height="160" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=h4x-Shivam&theme=tokyonight&utcOffset=5.5" height="160" />
+</p>
 
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=h4x-Shivam&theme=tokyonight" height="160" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=h4x-Shivam&theme=tokyonight" height="160" />
-</div>
+</p>
 
----
+<h2 align="center">🧠 Languages & Skills</h2>  
 
-### `> git log --graph`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python,docker,notion,cpp,git,github,linux,aws,npm,figma,vscode,linux,flask,fastapi,sqlite,mysql,postgres,postman,tensorflow,pytorch,sklearn,opencv,golang" />
+</p>
+
+<h2 align="center">🔗 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shivam-jaiswal-2a5b3b3a5/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://x.com/Sh1vxxm" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="mailto:svxm.h4x@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://instagram.com/sh1vxxm" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://github.com/h4x-Shivam" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/h4x-Shivam/h4x-Shivam/main/assets/top_wave_githubbg.gif" width="100%" />
+</p>
+
+<p align="center">
+ <img src="assets/ea72e0f2e0acc82f08a052ca60f39ee7.gif"
+       alt="gif"
+       style="
+         position: relative;
+         width: 100%;
+         border-radius: 18px;
+         box-shadow: 0px 15px 40px rgba(0,0,0,0.45);
+       " />
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/h4x-Shivam/h4x-Shivam/main/assets/bottom_wave_githubbg.gif" width="100%" />
+</p>
+
+<br>
+
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=h4x-Shivam&theme=tokyo-night&hide_border=true&area=true&color=00E5FF&line=1D9E75&point=00E5FF" width="100%" alt="Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/h4x-Shivam/h4x-Shivam/github-breakout/images/breakout-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/h4x-Shivam/h4x-Shivam/github-breakout/images/breakout-light.svg" />
+    <img alt="GitHub Breakout Game" src="https://raw.githubusercontent.com/h4x-Shivam/h4x-Shivam/github-breakout/images/breakout-dark.svg" width="100%" />
+  </picture>
   <br/>
   [![GitHub Skyline](https://img.shields.io/badge/GitHub_Skyline-3D_City_of_my_commits-1D9E75?style=flat-square&logo=github)](https://skyline.github.com/h4x-Shivam/2026)
 </div>
 
----
+<p align="center">
+  ⚡ <b>SVXM • Developer • Python | Web | AI • Building useful tools</b>
+</p>
 
-### `> activity --chart`
-
-<div align="center">
-  <img src="assets/contribution-chart.png" width="100%" />
-</div>
-
----
-
-### `> skills --list`
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,go,js,react,nextjs,nodejs,express,fastapi,flask&perline=10" />
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,docker,aws,linux,git,github,cpp&perline=10" />
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,figma,vscode,npm,postman,notion&perline=10" />
-</div>
-
----
-
-### `> contact --open`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-jaiswal-2a5b3b3a5/)
-[![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?style=flat-square&logo=x&logoColor=white)](https://x.com/Sh1vxxm)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/h4x-Shivam)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:svxm.h4x@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/sh1vxxm)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/h4x-Shivam/h4x-Shivam/main/assets/bottom_wave_githubbg.gif" width="100%" />
-  <br/>
-  <code>SVXM · Developer · Python | Web | AI · Building useful tools</code>
-</div>
+<br>
