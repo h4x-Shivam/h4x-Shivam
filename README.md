@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Backend+%26+AI+Systems;Fintech+%26+Algorithmic+Trading;CSE+Student;Open+Source+Contributor&font=Fira%20Code&center=true&width=650&height=50&color=00E5FF&vCenter=true&size=26&pause=1500" />
-</p>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&height=60&lines=Backend+%26+AI+Systems;Fintech+%26+Algo+Trading;Full-stack+Developer;Open+Source+Contributor;CSE+Student+%7C+Improving+d/d" />
+
+</div>
 
 <table>
 <tr>
@@ -21,29 +23,23 @@
 </tr>
 </table>
 
-<h2 align="center">Stats ⚙️</h2>
+<h2 align="center">Stats</h2>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h4x-Shivam&theme=tokyonight" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=h4x-Shivam&theme=tokyo-night&hide_border=true&area=true&color=00E5FF&line=1D9E75&point=00E5FF" width="100%" alt="Activity Graph" />
+  <br/>
+</div>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=h4x-Shivam&theme=tokyonight" height="160" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=h4x-Shivam&theme=tokyonight&utcOffset=5.5" height="160" />
-</p>
+<h2 align="center">Skills</h2>  
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=h4x-Shivam&theme=tokyonight" height="160" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=h4x-Shivam&theme=tokyonight" height="160" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,go,js,react,nextjs,nodejs,express,fastapi,flask&perline=10" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,docker,aws,linux,git,github,cpp&perline=10" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,figma,vscode,npm,postman,notion&perline=10" />
+</div>
 
-<h2 align="center">🧠 Languages & Skills</h2>  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python,docker,notion,cpp,git,github,linux,aws,npm,figma,vscode,linux,flask,fastapi,sqlite,mysql,postgres,postman,tensorflow,pytorch,sklearn,opencv,golang" />
-</p>
-
-<h2 align="center">🔗 Connect With Me</h2>
+<h2 align="center">Connect With Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shivam-jaiswal-2a5b3b3a5/" target="_blank">
@@ -71,6 +67,7 @@
   </a>
 </p>
 
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/h4x-Shivam/h4x-Shivam/main/assets/top_wave_githubbg.gif" width="100%" />
 </p>
@@ -91,7 +88,7 @@
 
 <br>
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="center">Contributions</h2>
 
 <div align="center">
   <picture>
@@ -100,11 +97,10 @@
     <img alt="GitHub Breakout Game" src="https://raw.githubusercontent.com/h4x-Shivam/h4x-Shivam/github-breakout/images/breakout-dark.svg" width="100%" />
   </picture>
   <br/>
-  [![GitHub Skyline](https://img.shields.io/badge/GitHub_Skyline-3D_City_of_my_commits-1D9E75?style=flat-square&logo=github)](https://skyline.github.com/h4x-Shivam/2026)
 </div>
 
 <p align="center">
-  ⚡ <b>SVXM • Developer • Python | Web | AI • Building useful tools</b>
+  ⚡ <b>SVXM • Developer • Python | Fintech | AI • Building useful tools</b>
 </p>
 
 <br>
