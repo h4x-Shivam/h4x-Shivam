@@ -42,9 +42,9 @@ Focus Areas:
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/h4x-Shivam/h4x-Shivam/output/github-contribution-grid-snake-teal.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/h4x-Shivam/h4x-Shivam/output/github-contribution-grid-pacman.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/h4x-Shivam/h4x-Shivam/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/h4x-Shivam/h4x-Shivam/output/github-contribution-grid-snake-teal.svg" width="100%" />
+    <img alt="contribution pacman" src="https://raw.githubusercontent.com/h4x-Shivam/h4x-Shivam/output/github-contribution-grid-pacman.svg" width="100%" />
   </picture>
 </div>
 
