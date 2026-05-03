@@ -39,6 +39,11 @@
 
 <h2 align="center">🧠 Languages & Skills</h2>  
 
+<h2 align="center">📈 Contribution Activity</h2>
+<p align="center">
+  <img src="assets/contribution-chart.png" width="100%" />
+</p>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python,docker,notion,cpp,git,github,linux,aws,npm,figma,vscode,linux,flask,fastapi,sqlite,mysql,postgres,postman,tensorflow,pytorch,sklearn,opencv,golang" />
 </p>
