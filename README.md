@@ -41,11 +41,9 @@ Focus Areas:
 ### `> git log --graph`
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/h4x-Shivam/h4x-Shivam/output/github-contribution-grid-pacman.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/h4x-Shivam/h4x-Shivam/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution pacman" src="https://raw.githubusercontent.com/h4x-Shivam/h4x-Shivam/output/github-contribution-grid-pacman.svg" width="100%" />
-  </picture>
+  <a href="https://skyline.github.com/h4x-Shivam/2026" target="_blank">
+    <img src="https://skyline.github.com/h4x-Shivam/2026/screenshot" width="100%" alt="GitHub Skyline 2026" />
+  </a>
 </div>
 
 ---
