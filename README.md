@@ -6,18 +6,19 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="60%" style="vertical-align: top; padding: 0;">
 
-  Hi 👋 I’m Shivam, a Computer Science student focused on building useful and well-crafted software. I enjoy working on full-stack applications, AI-powered projects, and developer tooling. I’m always experimenting, learning, and iterating — most of my repositories are prototypes, mini-projects, and hands-on builds that reflect my growth as a developer.
+<p style="margin: 0; line-height: 1.4;">
+Hi 👋 I’m Shivam, a Computer Science student building at the intersection of backend systems, AI, and fintech. I focus on creating scalable, data-driven applications — from APIs and system design to intelligent tools and trading focused solutions.
 
-- 🚀 Full-stack Development  
-- 🤖 AI & Automation  
-- 🛠 Tooling & Developer Utilities  
-- 📚 Always learning & improving
+I’m particularly interested in algorithmic trading and quantitative systems, where I experiment with strategies, analyze market behavior, and explore how automation can enhance decision making. I also enjoy building developer-centric tools and full-stack projects that solve practical problems with clean and efficient design.
+
+Most of my work is driven by experimentation. I believe in learning by building, shipping fast, and continuously improving, treating each project as a step toward mastering real-world system design and engineering.
+</p>
 
 </td>
 
-<td width="35%">
+<td width="35%" style="vertical-align: top; padding: 0;">
   <img src="assets/PinDown.io_@thevoidofgaur_1777786752.gif" width="100%" />
 </td>
 </tr>
