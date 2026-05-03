@@ -16,7 +16,7 @@
 </td>
 
 <td width="35%">
-  <img src="assets/73ab929436b583c407450e6c76e15c5d.gif" width="100%" />
+  <img src="assets/videoframe_2707.png" width="100%" />
 </td>
 </tr>
 </table>
