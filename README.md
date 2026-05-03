@@ -41,9 +41,9 @@ Focus Areas:
 ### `> git log --graph`
 
 <div align="center">
-  <a href="https://skyline.github.com/h4x-Shivam/2026" target="_blank">
-    <img src="https://skyline.github.com/h4x-Shivam/2026/screenshot" width="100%" alt="GitHub Skyline 2026" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=h4x-Shivam&theme=tokyo-night&hide_border=true&area=true&color=00E5FF&line=1D9E75&point=00E5FF" width="100%" alt="Activity Graph" />
+  <br/>
+  [![GitHub Skyline](https://img.shields.io/badge/GitHub_Skyline-3D_City_of_my_commits-1D9E75?style=flat-square&logo=github)](https://skyline.github.com/h4x-Shivam/2026)
 </div>
 
 ---
