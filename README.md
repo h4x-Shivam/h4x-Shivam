@@ -9,11 +9,11 @@
 <td width="60%" style="vertical-align: top; padding: 0;">
 
 <p style="margin: 0; line-height: 1.4;">
-Hi 👋 I’m Shivam, a Computer Science student building at the intersection of backend systems, AI, and fintech. I focus on creating scalable, data-driven applications — from APIs and system design to intelligent tools and trading focused solutions.
+Hi 👋 I’m Shivam, a Computer Science student building at the intersection of backend systems, AI, and fintech. I focus on creating scalable, data-driven applications from APIs and system design to intelligent tools and trading focused solutions.
 
 I’m particularly interested in algorithmic trading and quantitative systems, where I experiment with strategies, analyze market behavior, and explore how automation can enhance decision making. I also enjoy building developer-centric tools and full-stack projects that solve practical problems with clean and efficient design.
 
-Most of my work is driven by experimentation. I believe in learning by building, shipping fast, and continuously improving, treating each project as a step toward mastering real-world system design and engineering.
+Most of my work is driven by experimentation. I believe in learning by building, shipping fast, and continuously improving, treating each project as a step toward mastering real world system design and engineering.
 </p>
 
 </td>
