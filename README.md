@@ -27,7 +27,7 @@ Most of my work is driven by experimentation. I believe in learning by building,
 <h2 align="center">Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=h4x-Shivam&theme=tokyo-night&hide_border=true&area=true&color=00E5FF&line=1D9E75&point=00E5FF" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=h4x-Shivam&theme=tokyo-night&hide_border=true&area=true&color=00E5FF&line=1D9E75&point=00E5FF" width="80%" alt="Activity Graph" />
   <br/>
 </div>
 
