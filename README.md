@@ -34,9 +34,9 @@ Most of my work is driven by experimentation. I believe in learning by building,
 <h2 align="center">Skills</h2>  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,go,js,react,nextjs,nodejs,express,fastapi,flask&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,express,fastapi,flask&perline=10" />
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,docker,aws,linux,git,github,cpp&perline=10" />
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,figma,vscode,npm,postman,notion&perline=10" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,npm,notion&perline=10" />
 </div>
 
 
