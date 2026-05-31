@@ -101,7 +101,7 @@ Most of my work is driven by experimentation. I believe in learning by building,
 </div>
 
 <p align="center">
-  ⚡ <b>SVXM • Developer • Python | Fintech | AI • Building useful tools</b>
+  ⚡ <b>SVXM • QD • Python | Fintech | AI • Building useful tools</b>
 </p>
 
 <br>
