@@ -62,10 +62,6 @@ Most of my work is driven by experimentation. I believe in learning by building,
     <img src="https://skillicons.dev/icons?i=instagram" height="45" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://github.com/h4x-Shivam" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="45" />
-  </a>
 </p>
 
 
