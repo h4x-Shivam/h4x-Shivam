@@ -1,10 +1,25 @@
-<p align="center">
-  <img
-    src="assets/Sh1vxxm.gif"
-    width="350"
-    alt="Shivam's portrait"
-  />
-</p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="60%" align="center" valign="middle">
+        <img
+          src="./h4x-shivam-reveal-transparent.gif"
+          alt="h4x-Shivam animated profile"
+          width="100%"
+        />
+      </td>
+      <td width="40%" align="center" valign="middle">
+        <img
+          src="./Sh1vxxm.png"
+          alt="Shivam's portrait"
+          width="100%"
+        />
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 <!-- Typing animation -->
 <div align="center">
