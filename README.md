@@ -26,7 +26,7 @@ Most of my work is driven by experimentation. I believe in learning by building,
 </td>
 
 <td width="35%" style="vertical-align: top; padding: 0;">
-  <img src="assets/PinDown.io_@thevoidofgaur_1777786752.gif" width="100%" />
+  <img src="assets/Sh1vxxm.gif" width="100%" />
 </td>
 </tr>
 </table>
