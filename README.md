@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="./assets/Sh1vxxminfo.gif.gif"
+  <img src="./assets/Sh1vxxminfo.gif"
        alt="h4x-Shivam animated profile"
        width="55%"
        align="left" />
