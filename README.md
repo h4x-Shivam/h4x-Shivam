@@ -4,7 +4,7 @@
     <tr>
       <td width="60%" align="center" valign="middle">
         <img
-          src="./h4x-shivam-reveal-transparent.gif"
+          src="./Sh1vxxminfo.gif"
           alt="h4x-Shivam animated profile"
           width="100%"
         />
