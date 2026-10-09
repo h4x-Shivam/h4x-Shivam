@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="assets/Shivam_Portrait_Top_Down_Reveal"
+    src="assets/Shivam_Portrait_Top_Down_Reveal.gif"
     width="350"
     alt="Shivam's portrait"
   />
