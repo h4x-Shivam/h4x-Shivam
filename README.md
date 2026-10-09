@@ -1,28 +1,12 @@
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="60%" align="center" valign="middle">
-        <img
-          src="./assets/Sh1vxxminfo.gif.gif"
-          alt="h4x-Shivam animated profile"
-          width="100%"
-        />
-      </td>
-      <td width="40%" align="center" valign="middle">
-        <img
-          src="./assets/Sh1vxxm.gif"
-          alt="Shivam's portrait"
-          width="100%"
-        />
-      </td>
-    </tr>
-  </table>
+  <img src="./assets/Sh1vxxminfo.gif.gif"
+       alt="h4x-Shivam animated profile"
+       width="64%" />
+  <img src="./assets/Sh1vxxm.gif"
+       alt="Shivam's portrait"
+       width="34%" />
 </div>
-
-
-
-
 
 
 <!-- Typing animation -->
