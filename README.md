@@ -3,22 +3,15 @@
   <table>
     <tr>
       <td width="60%" align="center" valign="middle">
-        <img
-          src="./Sh1vxxminfo.gif"
-          alt="h4x-Shivam animated profile"
-          width="100%"
-        />
+        <img src="./Sh1vxxminfo.gif" alt="h4x-Shivam animated profile" width="100%" />
       </td>
       <td width="40%" align="center" valign="middle">
-        <img
-          src="./Sh1vxxm.png"
-          alt="Shivam's portrait"
-          width="100%"
-        />
+        <img src="./Sh1vxxm.png" alt="Shivam's portrait" width="100%" />
       </td>
     </tr>
   </table>
 </div>
+
 
 
 <!-- Typing animation -->
