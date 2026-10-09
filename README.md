@@ -1,12 +1,18 @@
 
+
 <div align="center">
   <img src="./assets/Sh1vxxminfo.gif.gif"
        alt="h4x-Shivam animated profile"
-       width="64%" />
+       width="55%"
+       align="left" />
   <img src="./assets/Sh1vxxm.gif"
        alt="Shivam's portrait"
-       width="34%" />
+       width="45%"
+       align="right"
+       style="position: relative; top: 25px;" />
 </div>
+
+
 
 
 <!-- Typing animation -->
